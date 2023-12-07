@@ -1,0 +1,15 @@
+body{
+    font-family: 'Jost';
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-size: 20px;
+    text-align: center;
+}
+
+.Azul {
+    color: blue;
+}
+.Rojo {
+    color: red;
+}
