@@ -15,19 +15,19 @@
 <img src="./public/images/punto-2.png" alt="punto 2">
 
 <h2>Punto 3: Diseño con CSS</h2>
-<img src="./public/images/punto-3.png" alt="punto 3">
+<img src="./public/images/punto-3.jpeg" alt="punto 3">
 
 <h2>Punto 4: Títulos</h2>
-<img src="./public/images/punto-4.png" alt="punto 4">
+<img src="./public/images/punto-4.jpeg" alt="punto 4">
 
 <h2>Punto 5: Párrafo</h2>
-<img src="./public/images/punto-5.png" alt="punto 5">
+<img src="./public/images/punto-5.jpeg" alt="punto 5">
 
 <h2>Punto 6: Links</h2>
-<img src="./public/images/punto-6.png" alt="punto 6">
+<img src="./public/images/punto-6.jpeg" alt="punto 6">
 
 <h2>Punto 7 y 8: Navegación</h2>
-<img src="./public/images/punto-7-8.png" alt="punto 7-8">
+<img src="./public/images/punto-7-8.jpeg" alt="punto 7-8">
 
 <h2>Punto 9: Tabla</h2>
-<img src="./public/images/punto-9.png" alt="punto 9">
+<img src="./public/images/punto-9.jpeg" alt="punto 9">
