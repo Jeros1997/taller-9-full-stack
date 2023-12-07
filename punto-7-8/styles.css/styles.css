@@ -1,0 +1,18 @@
+nav{
+    background-color: rgba(186, 85, 211, 0.959);
+    color: white;
+    padding: 22px;
+    margin: 250px;
+}
+
+ul{
+    display: flex;
+    gap: 55px;
+}
+
+nav ul :hover{
+    background-color: blue;
+    border: 0px;
+    color: white;
+    cursor: pointer;
+}

@@ -1,0 +1,39 @@
+.Punto-5{
+    font-family: 'Segoe UI';
+}
+
+section{
+    width: 85%;
+    height: 30px;
+    margin: 30px;
+}  
+
+#Punto-5 .p1{
+    color: green;
+    text-decoration: underline;
+}
+
+#Punto-5 .p2{
+    color: red;
+    font-weight: bold;
+}
+
+#Punto-5 .p3{
+    text-decoration: overline underline;
+}
+
+#Punto-5 .p4{
+    font-weight: bold;
+    font-size: 30px;
+}
+
+#Punto-5 .p5{
+    font-weight: bold;
+    color: blue;
+}
+
+#Punto-5 .p6{
+    font-weight: bold;
+    color: red;
+    text-decoration: underline;
+}

@@ -1,0 +1,32 @@
+.Punto-9{
+    font-family: 'Segoe UI';
+}
+
+section{
+    width: 85%;
+    height: 30px;
+    margin: 30px;
+}  
+
+#Punto-9 table{
+    background-color: yellow;
+    padding: 0px;
+    border-style: dotted dotted dashed dotted;
+    border-color: black black red black;
+    border: 1px 1px;
+}
+
+#Punto-9 table th::first-letter{
+        font-weight: bold;
+}
+
+#Punto-9 table th{
+    color: red;
+    font-style: italic;
+    border: none;
+}
+
+#Punto-9 table td{
+    padding: 0px;
+    border: 1px dotted black;
+}
